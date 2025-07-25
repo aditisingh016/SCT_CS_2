@@ -14,6 +14,12 @@ It provides a simple command-line interface where users can encrypt or decrypt a
 - NumPy
 - Matplotlib
 
+🧠 **Concepts Covered**
+- Bitwise operations
+- Image processing using OpenCV
+- Encryption/Decryption fundamentals
+- Python file I/O
+
 ### 🚀 How to Run (on Replit or Locally)
 1. Upload any image as `tiger.png` (or change in code)
 2. Run `main.py`
@@ -41,6 +47,7 @@ Make sure you have the following libraries installed:
 pip install opencv-python numpy matplotlib
 
 Python version required: 3.10+
+
 
 
 
