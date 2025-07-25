@@ -1,0 +1,7 @@
+=== IMAGE ENCRYPTION TOOL ===
+1. XOR Encryption
+2. Pixel Swap Encryption
+3. XOR Decryption
+4. Pixel Swap Decryption
+5. Exit
+Enter your choice (1-5):
