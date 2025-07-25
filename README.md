@@ -6,6 +6,8 @@ A beginner-friendly Python project to encrypt and decrypt images using:
 - XOR Encryption 🔁
 - Pixel Swapping 🔄
 
+It provides a simple command-line interface where users can encrypt or decrypt any image using the selected method. The tool is ideal for experimenting with basic cryptographic operations on image data.
+
 ### 🛠️ Built With
 - Python
 - OpenCV
@@ -22,10 +24,31 @@ A beginner-friendly Python project to encrypt and decrypt images using:
    - 4: Swap Decrypt
 4. Encrypted/Decrypted images will be saved and displayed.
 
----
+## 🛠️ Requirements
+Make sure you have the following libraries installed:
 
-📷 Sample image: `tiger.png`  
-🔁 Output: `xor_encrypted.png`, `swap_encrypted.png` etc.
+```bash
+pip install opencv-python numpy matplotlib
 
----
+Python version required: 3.10+
+
+
+## 📷 Sample Outputs (Results)
+
+🖼️ Encrypted and Decrypted Images Generated:
+- ✅ `xor_encrypted_output_img.png`
+- ✅ `xor_decrypted_output_img.png`
+- ✅ `pixel_swap_encrypted_output_img.png`
+- ✅ `pixel_swap_decrypted_output_img.png`
+
+📌 All these files are available in this GitHub repository.
+
+
+🧠 **Concepts Covered**
+- Bitwise operations
+- Image processing using OpenCV
+- Encryption/Decryption fundamentals
+- Python file I/O
+
+
 
