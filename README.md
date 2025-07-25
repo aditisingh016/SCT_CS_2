@@ -24,15 +24,6 @@ It provides a simple command-line interface where users can encrypt or decrypt a
    - 4: Swap Decrypt
 4. Encrypted/Decrypted images will be saved and displayed.
 
-## 🛠️ Requirements
-Make sure you have the following libraries installed:
-
-```bash
-pip install opencv-python numpy matplotlib
-
-Python version required: 3.10+
-
-
 ## 📷 Sample Outputs (Results)
 
 🖼️ Encrypted and Decrypted Images Generated:
@@ -43,12 +34,17 @@ Python version required: 3.10+
 
 📌 All these files are available in this GitHub repository.
 
+## 🛠️ Requirements
+Make sure you have the following libraries installed:
 
-🧠 **Concepts Covered**
-- Bitwise operations
-- Image processing using OpenCV
-- Encryption/Decryption fundamentals
-- Python file I/O
+```bash
+pip install opencv-python numpy matplotlib
+
+Python version required: 3.10+
+
+
+
+
 
 
 
